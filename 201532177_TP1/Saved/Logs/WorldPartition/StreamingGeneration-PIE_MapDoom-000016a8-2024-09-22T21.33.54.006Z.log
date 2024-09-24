@@ -1,0 +1,81 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/MapDoom
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0625BDBF4667EEAB92BD738781C967BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5FFB00_1159438599 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1636340.000), Max=(X=1638400.000 Y=1638400.000 Z=1640460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:D9E1224C415FCB205E4105B3245ADAAB
+ |   |   |- Guid:1B1E792741B5B57201EDF79A29B12C73 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_4CD71714E679061E02_1819571237 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-440.000 Y=50.000 Z=-350.000), Max=(X=2960.000 Y=4250.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3816289F447A8AC4B3E5449BEF9E2AE0 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_4CD71714E6792E1D02-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:544EC58040DE72646D4B6BBAC98E5F0D BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=939.000 Y=810.000 Z=-69.987), Max=(X=1019.000 Y=890.000 Z=114.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:88EBBE164DA2A7BBED8854AF0991D9B5 BaseClass:/Game/Enemy/BP_Enemy.BP_Enemy_C NativeClass:/Script/Engine.Character Name:BP_Enemy_C_UAID_4CD71714E679C81D02_1979932320 Label:BP_Enemy SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1287.000 Y=3990.000 Z=-694.000), Max=(X=1671.000 Y=4118.000 Z=778.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:929E5BC343BF984BDD50FEA63E13C8A7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:D9E1224C415FCB205E4105B3245ADAAB
+ |   |   |- Guid:A7CF2B67465B35D3A1CF03AC83DD8BCB BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:D9E1224C415FCB205E4105B3245ADAAB
+ |   |   |- Guid:C96557B84A83F9FA6D94A1BC490777D3 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_4CD71714E679061E02_1488451232 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E14A2003453DC680880F6EAE8B55487D BaseClass:/Game/Enemy/BP_Enemy.BP_Enemy_C NativeClass:/Script/Engine.Character Name:BP_Enemy_C_UAID_4CD71714E679A41E02_1988626040 Label:BP_Enemy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1835.000 Y=3990.000 Z=-694.000), Max=(X=2219.000 Y=4118.000 Z=778.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E478A3DE41D8BBFD1E6F83A56E2AFDC6 BaseClass:/Game/Enemy/BP_Enemy.BP_Enemy_C NativeClass:/Script/Engine.Character Name:BP_Enemy_C_UAID_4CD71714E679A41E02_1982277039 Label:BP_Enemy2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=710.000 Y=3990.000 Z=-694.000), Max=(X=1094.000 Y=4118.000 Z=778.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EFF5212148C2E7EF5D3369AA51482062 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_4CD71714E679CC1E02_1458753079 Label:RecastNavMesh SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F9CB0F0B4C973C017F6F07867D38D783 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0625BDBF4667EEAB92BD738781C967BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5FFB00_1159438599 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1636340.000), Max=(X=1638400.000 Y=1638400.000 Z=1640460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:D9E1224C415FCB205E4105B3245ADAAB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1B1E792741B5B57201EDF79A29B12C73 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_4CD71714E679061E02_1819571237 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-440.000 Y=50.000 Z=-350.000), Max=(X=2960.000 Y=4250.000 Z=50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:3816289F447A8AC4B3E5449BEF9E2AE0 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_4CD71714E6792E1D02-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:544EC58040DE72646D4B6BBAC98E5F0D BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=939.000 Y=810.000 Z=-69.987), Max=(X=1019.000 Y=890.000 Z=114.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:88EBBE164DA2A7BBED8854AF0991D9B5 BaseClass:/Game/Enemy/BP_Enemy.BP_Enemy_C NativeClass:/Script/Engine.Character Name:BP_Enemy_C_UAID_4CD71714E679C81D02_1979932320 Label:BP_Enemy SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1287.000 Y=3990.000 Z=-694.000), Max=(X=1671.000 Y=4118.000 Z=778.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:929E5BC343BF984BDD50FEA63E13C8A7 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:D9E1224C415FCB205E4105B3245ADAAB
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:A7CF2B67465B35D3A1CF03AC83DD8BCB BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:D9E1224C415FCB205E4105B3245ADAAB
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:C96557B84A83F9FA6D94A1BC490777D3 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_4CD71714E679061E02_1488451232 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:E14A2003453DC680880F6EAE8B55487D BaseClass:/Game/Enemy/BP_Enemy.BP_Enemy_C NativeClass:/Script/Engine.Character Name:BP_Enemy_C_UAID_4CD71714E679A41E02_1988626040 Label:BP_Enemy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1835.000 Y=3990.000 Z=-694.000), Max=(X=2219.000 Y=4118.000 Z=778.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:E478A3DE41D8BBFD1E6F83A56E2AFDC6 BaseClass:/Game/Enemy/BP_Enemy.BP_Enemy_C NativeClass:/Script/Engine.Character Name:BP_Enemy_C_UAID_4CD71714E679A41E02_1982277039 Label:BP_Enemy2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=710.000 Y=3990.000 Z=-694.000), Max=(X=1094.000 Y=4118.000 Z=778.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:EFF5212148C2E7EF5D3369AA51482062 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_4CD71714E679CC1E02_1458753079 Label:RecastNavMesh SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:F9CB0F0B4C973C017F6F07867D38D783 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/MapDoom
+----------------------------------------------------------------------------------------------------------------
+MapDoom - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MapDoom Persistent Level
+ |- Always loaded Actor Count: 12 
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.BP_Enemy_C_UAID_4CD71714E679A41E02_1982277039
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/6/LM/G1JXK90D5R96TTLDLDQ0F8
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.BP_Enemy_C_UAID_4CD71714E679A41E02_1988626040
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/B/FN/TQ3IUH9FFR8PPGHU4IGFXD
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.BP_Enemy_C_UAID_4CD71714E679C81D02_1979932320
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/6/7F/GKSS342F3PL4M8NHV5E5X2
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.DirectionalLight_UAID_4CD71714E679061E02_1488451232
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/B/D8/GT7646WMZE6LN4XD9VIA0A
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/2/TW/K0K4E3PFNS1ABJ31BFY9GP
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.NavMeshBoundsVolume_UAID_4CD71714E679061E02_1819571237
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/7/0J/ZA15Y1C2HD4Z5XQJKWPQ52
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/6/6Y/VGR5385B8MY47WK9UWKMHJ
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.RecastNavMesh_UAID_4CD71714E6792E1D02-Default
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/1/N0/07O1NYIIO4R50IP2MGMAIZ
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.RecastNavMesh_UAID_4CD71714E679CC1E02_1458753079
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/1/U3/X4ZNCJ7YC9AGB625DINO62
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/E/8X/SN3V1SU5DL3NBPU8DB9ZZE
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5FFB00_1159438599
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/4/X3/2JPOMW5D1D50R1W4VWKDCZ
+ |- Actor Path: /Game/FirstPerson/Maps/MapDoom.MapDoom:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/MapDoom/2/40/RZP8J8YEQX0Q1BRL3JO34P
+
+----------------------------------------------------------------------------------------------------------------
+MapDoom - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
